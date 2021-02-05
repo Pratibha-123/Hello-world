@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Just repository
+Added new codes
